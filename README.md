@@ -21,3 +21,8 @@
 3. Pindah folder yang di download sebelumnya ke xampp/htdocs/
 4. Aktifkan menu apache dan mysql pada xampp control panel
 5. Buka web dengan url : http://localhost/topsus3icm/
+
+### Dokumentasi 
+1. video : https://youtu.be/j3JPMEL6UdU
+2. file node 1-3 : https://drive.google.com/open?id=1UwKyccQIIZlpYXBVyrFtrqePc3-Fk5XZ
+
