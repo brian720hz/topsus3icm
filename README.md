@@ -2,8 +2,10 @@
 
 #### Nim : 1301164298
 
+#### Kelas : Topsus 3 ICM Blockchain DQU
 
-## Tugas Besar Block Chain
+
+## Tugas Besar Blockchain
 
 ### Spesifikasi
 
